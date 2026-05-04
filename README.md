@@ -71,5 +71,4 @@ Feel free to fork, open an issue, or submit a pull request.
 
 💡 Author
 
-Your Name
-GitHub:Guptanayanog
+Guptanayanog
